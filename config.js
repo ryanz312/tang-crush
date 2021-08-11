@@ -5,7 +5,7 @@ const CONFIG = {
     title: 'Đi chơi với mình nhaaaaaaaa',
     desc: 'Ngại lắm nên dùng cái này nè cho vui vui nè =)) ',
     btnYes: 'Cóoooooooo',
-    btnNo: 'Không, nằm mươ điii',
+    btnNo: 'Không, nằm mơ điiiii',
     question:'Chắc chắn là sẽ  đi chưaaaa',
     btnReply: 'Gửii',
     reply: 'Chắc chắn rùi hỏi lại  hoài kì ghê',
